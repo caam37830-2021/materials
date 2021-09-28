@@ -21,4 +21,4 @@ def f(a, b):
 a = 1
 b = 2
 print(f"{a} + {b} = {f(a,b)}")
-print("{:f} + {:f} = {:f}".format(a, b, f(a,b)))
+print("{:} + {:} = {:}".format(a, b, f(a,b)))
